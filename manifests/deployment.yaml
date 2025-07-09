@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: nginx-app
-        image: saheed3828/my-app-minikube:v1
+        image: 9562066323/my-app-minikube:v1
         ports:
         - containerPort: 80
